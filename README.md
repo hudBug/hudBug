@@ -15,16 +15,16 @@ Essas sãs as tecnologias que eu estudo e possuo conhecimento
 <img alt="Windows11" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 <img alt="Ubuntu" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 </p>
-#Projetos Atuais
-##Shadows of Humaitá
+# Projetos Atuais
+## Shadows of Humaitá
 Jogo de RTS baseado na Guerra do Paraguai, jogabilidade baseada em jogos como Age Of Empires III e Bad North.
 
-##Brazil, a nuclear dystopia
+## Brazil, a nuclear dystopia
 Jogo de estratégia por turnos com um roteiro de um Brasil futurista com micronações lutando por territórios e recursos, jogabilidade baseada em Civilization V.
 
-##Jogos menores:
+## Jogos menores:
 Jogos para passar o tempo, jogabilidade curta e com roteiro raso:
-###Tic-Tactic-Toe
+### Tic-Tactic-Toe
 Jogo de estratégia baseado no clássico jogo da velha(pt-br) mesclado com táticas de combate do século XIX
-###White Zombies Play First
+### White Zombies Play First
 Jogo mobile de Tower Defense com elementos baseados no jogo de xadrez e tematica pós apocalíptica
