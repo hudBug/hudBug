@@ -3,5 +3,5 @@ Sou estudante de Jogos Digitais e de Análise e Desenvolvimento de Sistemas, ten
 ## Minhas tecnologias
 Essas sãs as tecnologias que eu estudo e possuo conhecimento
 
-            <i class="devicon-godot-plain-wordmark colored"></i>
+<i class="devicon-godot-plain-wordmark colored"></i>
           
