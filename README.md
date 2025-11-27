@@ -16,6 +16,7 @@ Essas sãs as tecnologias que eu estudo e possuo conhecimento
 <img alt="Ubuntu" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 </p>
 # Projetos Atuais
+
 ## Shadows of Humaitá
 Jogo de RTS baseado na Guerra do Paraguai, jogabilidade baseada em jogos como Age Of Empires III e Bad North.
 
