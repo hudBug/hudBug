@@ -1,6 +1,6 @@
-## Oi 👋
+# Oi 👋
 Sou estudante de Jogos Digitais e de Análise e Desenvolvimento de Sistemas, tenho larga experiência profissional atuando na área técnica com manutenção de computadores e infraestrutura de TI. Atualmente estou buscando ober experiêcnia e migrar para a áre de desenvolvimento de sistemas, paralelamente sigo com os meus projetos de desenvolvimento de jogos.
-## Minhas tecnologias
+# Minhas tecnologias
 Essas sãs as tecnologias que eu estudo e possuo conhecimento
 <p align="center">
 <img alt="Unity" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
@@ -15,5 +15,16 @@ Essas sãs as tecnologias que eu estudo e possuo conhecimento
 <img alt="Windows11" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 <img alt="Ubuntu" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 </p>
-          
-          
+#Projetos Atuais
+##Shadows of Humaitá
+Jogo de RTS baseado na Guerra do Paraguai, jogabilidade baseada em jogos como Age Of Empires III e Bad North.
+
+##Brazil, a nuclear dystopia
+Jogo de estratégia por turnos com um roteiro de um Brasil futurista com micronações lutando por territórios e recursos, jogabilidade baseada em Civilization V.
+
+##Jogos menores:
+Jogos para passar o tempo, jogabilidade curta e com roteiro raso:
+###Tic-Tactic-Toe
+Jogo de estratégia baseado no clássico jogo da velha(pt-br) mesclado com táticas de combate do século XIX
+###White Zombies Play First
+Jogo mobile de Tower Defense com elementos baseados no jogo de xadrez e tematica pós apocalíptica
