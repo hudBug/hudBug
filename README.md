@@ -3,7 +3,7 @@ Sou estudante de Jogos Digitais e de Análise e Desenvolvimento de Sistemas, ten
 ## Minhas tecnologias
 Essas sãs as tecnologias que eu estudo e possuo conhecimento
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+<img alt="Godot Engine" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
           
           
           
