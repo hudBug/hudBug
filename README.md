@@ -1,4 +1,5 @@
-## Hi there 👋
+## Oi 👋
+Sou estudante de Jogos Digitais e de Análise e Desenvolvimento de Sistemas, tenho larga experiência profissional atuando na área técnica com manutenção de computadores e infraestrutura de TI. Atualmente estou buscando ober experiêcnia e migrar para a áre de desenvolvimento de sistemas, paralelamente sigo com os meus projetos de desenvolvimento de jogos.
 
 <!--
 **hudBug/hudBug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
