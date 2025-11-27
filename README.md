@@ -1,5 +1,5 @@
 # Oi 👋
-Sou estudante de Jogos Digitais e de Análise e Desenvolvimento de Sistemas, tenho larga experiência profissional atuando na área técnica com manutenção de computadores e infraestrutura de TI. Atualmente estou buscando obter experiêcnia e migrar para a área de desenvolvimento de sistemas, paralelamente sigo com os meus projetos de desenvolvimento de jogos.
+Sou estudante de Jogos Digitais e de Análise e Desenvolvimento de Sistemas, tenho larga experiência profissional atuando na área técnica com manutenção de computadores e infraestrutura de TI. Atualmente estou buscando obter experiência e migrar para a área de desenvolvimento de sistemas, paralelamente sigo com os meus projetos de desenvolvimento de jogos.
 # Minhas tecnologias
 Essas sãs as tecnologias que eu estudo e possuo conhecimento:
 <p align="center">
@@ -25,5 +25,5 @@ Essas sãs as tecnologias que eu estudo e possuo conhecimento:
 ## Shadows of Humaitá
 Jogo de RTS baseado na Guerra do Paraguai, jogabilidade baseada em jogos como Age Of Empires III e Bad North.
 
-## Brazil, a nuclear dystopia
+## Brazil 2022, a nuclear dystopia
 Jogo de estratégia por turnos com um roteiro de um Brasil futurista com micronações lutando por territórios e recursos, jogabilidade baseada em Civilization V.
