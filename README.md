@@ -23,7 +23,7 @@ Essas sãs as tecnologias que eu estudo e possuo conhecimento:
 <img alt="VSCode" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </p>
 
-# Projetos Atuais
+# Projetos em desenvolvimento
 
 ## Shadows of Humaitá
 Jogo de RTS baseado na Guerra do Paraguai, jogabilidade baseada em jogos como Age Of Empires III e Bad North.
