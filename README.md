@@ -9,12 +9,11 @@ Essas sãs as tecnologias que eu estudo e possuo conhecimento:
 <img alt="C" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img alt="CSharp" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
 <img alt=".NET" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />
 <img alt="Windows11" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 <img alt="Ubuntu" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hudBug&layout=compact&theme=vision-glow)](https://github.com/hudBug/github-readme-stats)
 # Projetos em desenvolvimento
 
 ## Shadows of Humaitá
