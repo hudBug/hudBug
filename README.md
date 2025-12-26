@@ -14,7 +14,7 @@ Essas sãs as tecnologias que eu estudo e possuo conhecimento:
 <img alt="Ubuntu" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hudBug&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hudBug&layout=compact&theme=vision-glow)
 
 # Projetos em desenvolvimento
 
