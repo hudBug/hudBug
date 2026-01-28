@@ -1,7 +1,7 @@
 # Oi 👋
 Sou estudante de Jogos Digitais e de Análise e Desenvolvimento de Sistemas, tenho larga experiência profissional atuando na área técnica com manutenção de computadores e infraestrutura de TI. Atualmente estou buscando obter experiência e migrar para áreas como Desenvolviemnto de Softwares e Análise de Dados, paralelamente sigo com os meus projetos de desenvolvimento de jogos.
 # Minhas tecnologias
-Essas sãs as tecnologias que eu estudo e possuo conhecimento:
+Essas são as tecnologias que eu estudo e possuo conhecimento:
 <p align="center">
 <img alt="Unity" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 <img alt="Blender" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
