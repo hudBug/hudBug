@@ -1,5 +1,5 @@
 # Oi 👋
-Sou estudante de Sistemas de Informação e de Análise e Desenvolvimento de Sistemas, tenho larga experiência profissional atuando na área técnica com manutenção de computadores e infraestrutura de TI. Atualmente estou buscando obter experiência e migrar para áreas como Desenvolviemnto de Softwares e Análise de Dados, paralelamente sigo com os meus projetos de desenvolvimento de jogos.
+Sou estudante de Sistemas de Informação e de Análise e Desenvolvimento de Sistemas, tenho larga experiência profissional atuando na área técnica com manutenção de computadores e infraestrutura de TI. Atualmente estou buscando obter experiência e migrar para áreas como Desenvolviemnto de Softwares, paralelamente sigo com os meus projetos de desenvolvimento de jogos.
 # Minhas tecnologias
 Essas são as tecnologias que eu estudo e possuo conhecimento:
 <p align="center">
